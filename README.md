@@ -10,7 +10,14 @@ and wants their own web application. </p>
 <h2>Functional Requirements</h2>
 
 <b>User Stories:-</b>
-<ul type="i">
+<ul>
   <li> As a user I should be able to login, Logout and Register into the application.</li>
+  <li> As a user I should be able to see the products in different categories.</li> 
+  <li> As a user I should be able to sort the products.</li> 
+  <li> As a user I should be able to add the products into the shopping cart.</li>
+  <li> As a user I should be able to increase or decrease the  quantity added in the cart.</li> 
+  <li> As a user I should be able to add “n” number of products in the cart.</li>
+  <li> As a user I should be able to get the Wish list option where I can add those products which I want but don’t want to order now.</li>
+  <li> As a user I should get different discount coupons.</li>
 
 </ul>
