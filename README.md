@@ -21,3 +21,17 @@ and wants their own web application. </p>
   <li> As a user I should get different discount coupons.</li>
 
 </ul>
+
+<br>
+
+<b>Admin Stories:-</b>
+<ul>
+  <li>As an Admin I should be able to login, Logout and Register into the application.</li>
+  <li>As an Admin I should be able to perform CRUD on Users.</li>
+  <li>As an Admin I should be able to Perform CRUD on the products.</li>
+     <li> As an Admin I should be able to get bulk upload option to upload a csv for products details.</li>
+     <li>As an Admin I should be able to get the stocks.</li>
+  <li>As an Admin I should be able to mail if any stock is less than 10.</li>
+  <li>As an Admin I should be able to get the sales report of a specific duration.</li>
+             <li>As an Admin I should be able to set the discount coupons for the specific set of users</li>
+ </ul>
